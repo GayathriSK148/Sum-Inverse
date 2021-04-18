@@ -15,4 +15,3 @@ def SumInverse(sum, numberLength):
             counter += 1
     print(numbers)
     print(counter)
-fun1(7, 2)
